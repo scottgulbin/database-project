@@ -1,0 +1,77 @@
+[19-Dec-2016 17:15:47 UTC] PHP Parse error:  syntax error, unexpected 'mysql_select_db' (T_STRING) in /home/fa16_547_330_02/public_html/group6/output/outTranConf.php on line 14
+[19-Dec-2016 17:16:36 UTC] PHP Parse error:  syntax error, unexpected 'mysql_select_db' (T_STRING) in /home/fa16_547_330_02/public_html/group6/output/budOut.php on line 14
+[19-Dec-2016 17:25:08 UTC] PHP Parse error:  syntax error, unexpected 'mysql_select_db' (T_STRING) in /home/fa16_547_330_02/public_html/group6/output/budOut.php on line 14
+[19-Dec-2016 17:25:42 UTC] PHP Parse error:  syntax error, unexpected 'mysql_select_db' (T_STRING) in /home/fa16_547_330_02/public_html/group6/output/budOut.php on line 14
+[19-Dec-2016 17:25:43 UTC] PHP Parse error:  syntax error, unexpected 'mysql_select_db' (T_STRING) in /home/fa16_547_330_02/public_html/group6/output/budOut.php on line 14
+[19-Dec-2016 17:26:12 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/fa16_547_330_02/public_html/group6/output/budOut.php on line 14
+[19-Dec-2016 17:26:32 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/fa16_547_330_02/public_html/group6/output/budOut.php on line 15
+[19-Dec-2016 17:26:34 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/fa16_547_330_02/public_html/group6/output/budOut.php on line 15
+[19-Dec-2016 17:28:05 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/fa16_547_330_02/public_html/group6/output/budOut.php on line 15
+[19-Dec-2016 17:28:06 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/fa16_547_330_02/public_html/group6/output/budOut.php on line 15
+[19-Dec-2016 17:28:07 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/fa16_547_330_02/public_html/group6/output/budOut.php on line 15
+[19-Dec-2016 17:28:07 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/fa16_547_330_02/public_html/group6/output/budOut.php on line 15
+[19-Dec-2016 17:28:08 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/fa16_547_330_02/public_html/group6/output/budOut.php on line 15
+[19-Dec-2016 17:28:08 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/fa16_547_330_02/public_html/group6/output/budOut.php on line 15
+[19-Dec-2016 17:28:08 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/fa16_547_330_02/public_html/group6/output/budOut.php on line 15
+[19-Dec-2016 17:28:49 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/fa16_547_330_02/public_html/group6/output/budOut.php on line 15
+[19-Dec-2016 17:28:50 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/fa16_547_330_02/public_html/group6/output/budOut.php on line 15
+[19-Dec-2016 17:31:00 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/fa16_547_330_02/public_html/group6/output/budOut.php on line 15
+[19-Dec-2016 17:31:02 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/fa16_547_330_02/public_html/group6/output/budOut.php on line 15
+[19-Dec-2016 17:31:23 UTC] PHP Parse error:  syntax error, unexpected 'output' (T_STRING), expecting ',' or ';' in /home/fa16_547_330_02/public_html/group6/output/budOut.php on line 17
+[19-Dec-2016 17:32:09 UTC] PHP Parse error:  syntax error, unexpected 'budget' (T_STRING), expecting ',' or ';' in /home/fa16_547_330_02/public_html/group6/output/budOut.php on line 17
+[19-Dec-2016 17:32:11 UTC] PHP Parse error:  syntax error, unexpected 'budget' (T_STRING), expecting ',' or ';' in /home/fa16_547_330_02/public_html/group6/output/budOut.php on line 17
+[19-Dec-2016 17:33:17 UTC] PHP Parse error:  syntax error, unexpected 'genbud' (T_STRING), expecting ',' or ';' in /home/fa16_547_330_02/public_html/group6/output/budOut.php on line 17
+[19-Dec-2016 17:33:18 UTC] PHP Parse error:  syntax error, unexpected 'genbud' (T_STRING), expecting ',' or ';' in /home/fa16_547_330_02/public_html/group6/output/budOut.php on line 17
+[19-Dec-2016 17:35:24 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/fa16_547_330_02/public_html/group6/output/budOut.php on line 18
+[19-Dec-2016 17:36:02 UTC] PHP Parse error:  syntax error, unexpected 'SELECT' (T_STRING) in /home/fa16_547_330_02/public_html/group6/output/budOut.php on line 23
+[19-Dec-2016 17:36:08 UTC] PHP Parse error:  syntax error, unexpected 'SELECT' (T_STRING) in /home/fa16_547_330_02/public_html/group6/output/budOut.php on line 23
+[19-Dec-2016 17:37:16 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/fa16_547_330_02/public_html/group6/output/budOut.php on line 27
+[19-Dec-2016 17:38:35 UTC] PHP Warning:  require_once(smg330_login.php): failed to open stream: No such file or directory in /home/fa16_547_330_02/public_html/group6/output/budOut.php on line 3
+[19-Dec-2016 17:38:35 UTC] PHP Fatal error:  require_once(): Failed opening required 'smg330_login.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/fa16_547_330_02/public_html/group6/output/budOut.php on line 3
+[19-Dec-2016 17:39:16 UTC] PHP Warning:  require_once(smg330_login.php): failed to open stream: No such file or directory in /home/fa16_547_330_02/public_html/group6/output/budOut.php on line 3
+[19-Dec-2016 17:39:16 UTC] PHP Fatal error:  require_once(): Failed opening required 'smg330_login.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/fa16_547_330_02/public_html/group6/output/budOut.php on line 3
+[19-Dec-2016 17:39:17 UTC] PHP Warning:  require_once(smg330_login.php): failed to open stream: No such file or directory in /home/fa16_547_330_02/public_html/group6/output/budOut.php on line 3
+[19-Dec-2016 17:39:17 UTC] PHP Fatal error:  require_once(): Failed opening required 'smg330_login.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/fa16_547_330_02/public_html/group6/output/budOut.php on line 3
+[19-Dec-2016 17:41:16 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/fa16_547_330_02/public_html/group6/output/budOut.php on line 19
+[19-Dec-2016 17:41:16 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/fa16_547_330_02/public_html/group6/output/budOut.php on line 19
+[19-Dec-2016 17:41:16 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/fa16_547_330_02/public_html/group6/output/budOut.php on line 20
+[19-Dec-2016 17:44:19 UTC] PHP Parse error:  syntax error, unexpected 'count' (T_STRING) in /home/fa16_547_330_02/public_html/group6/output/budOut.php on line 19
+[19-Dec-2016 17:45:00 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/fa16_547_330_02/public_html/group6/output/budOut.php on line 19
+[19-Dec-2016 17:45:19 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/fa16_547_330_02/public_html/group6/output/budOut.php on line 20
+[20-Dec-2016 17:13:19 UTC] PHP Parse error:  syntax error, unexpected 'mysql_select_db' (T_STRING) in /home/fa16_547_330_02/public_html/group6/output/genexp.php on line 13
+[20-Dec-2016 17:14:33 UTC] PHP Parse error:  syntax error, unexpected 'mysql_select_db' (T_STRING) in /home/fa16_547_330_02/public_html/group6/output/genexp.php on line 13
+[20-Dec-2016 17:14:57 UTC] PHP Parse error:  syntax error, unexpected 'mysql_select_db' (T_STRING) in /home/fa16_547_330_02/public_html/group6/output/genexp.php on line 13
+[20-Dec-2016 17:17:05 UTC] PHP Parse error:  syntax error, unexpected 'mysql_select_db' (T_STRING) in /home/fa16_547_330_02/public_html/group6/output/outTranConf.php on line 14
+[20-Dec-2016 17:20:49 UTC] PHP Parse error:  syntax error, unexpected 'mysql_select_db' (T_STRING) in /home/fa16_547_330_02/public_html/group6/output/merchConf.php on line 14
+[20-Dec-2016 17:53:03 UTC] PHP Parse error:  syntax error, unexpected 'mysql_select_db' (T_STRING) in /home/fa16_547_330_02/public_html/group6/output/genexp.php on line 13
+[20-Dec-2016 17:58:48 UTC] PHP Parse error:  syntax error, unexpected 'mysql_select_db' (T_STRING) in /home/fa16_547_330_02/public_html/group6/output/merchConf.php on line 14
+[20-Dec-2016 18:12:55 UTC] PHP Parse error:  syntax error, unexpected 'mysql_select_db' (T_STRING) in /home/fa16_547_330_02/public_html/group6/output/merchConf.php on line 14
+[20-Dec-2016 18:16:22 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/fa16_547_330_02/public_html/group6/output/merchConf.php on line 54
+[20-Dec-2016 18:35:32 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/fa16_547_330_02/public_html/group6/output/merchConf.php on line 54
+[20-Dec-2016 19:48:20 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/fa16_547_330_02/public_html/group6/output/merchConf.php on line 56
+[20-Dec-2016 20:10:33 UTC] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/fa16_547_330_02/public_html/group6/output/merchConf.php on line 56
+[20-Dec-2016 20:25:24 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/fa16_547_330_02/public_html/group6/output/merchConf.php on line 63
+[20-Dec-2016 20:25:50 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/fa16_547_330_02/public_html/group6/output/merchConf.php on line 71
+[20-Dec-2016 20:32:59 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/fa16_547_330_02/public_html/group6/output/merchConf.php on line 71
+[20-Dec-2016 20:37:09 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/fa16_547_330_02/public_html/group6/output/merchConf.php on line 71
+[20-Dec-2016 20:37:30 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/fa16_547_330_02/public_html/group6/output/merchConf.php on line 71
+[20-Dec-2016 20:37:36 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/fa16_547_330_02/public_html/group6/output/merchConf.php on line 71
+[20-Dec-2016 20:38:10 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/fa16_547_330_02/public_html/group6/output/merchConf.php on line 71
+[20-Dec-2016 20:38:12 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/fa16_547_330_02/public_html/group6/output/merchConf.php on line 71
+[20-Dec-2016 20:38:46 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/fa16_547_330_02/public_html/group6/output/merchConf.php on line 71
+[20-Dec-2016 20:38:46 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/fa16_547_330_02/public_html/group6/output/merchConf.php on line 71
+[20-Dec-2016 20:38:46 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/fa16_547_330_02/public_html/group6/output/merchConf.php on line 71
+[20-Dec-2016 20:38:47 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/fa16_547_330_02/public_html/group6/output/merchConf.php on line 71
+[20-Dec-2016 20:38:47 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/fa16_547_330_02/public_html/group6/output/merchConf.php on line 71
+[20-Dec-2016 20:52:26 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/fa16_547_330_02/public_html/group6/output/merchConf.php on line 63
+[20-Dec-2016 21:06:35 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/fa16_547_330_02/public_html/group6/output/merchConf.php on line 56
+[20-Dec-2016 21:08:56 UTC] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR), expecting ',' or ';' in /home/fa16_547_330_02/public_html/group6/output/merchConf.php on line 64
+[20-Dec-2016 21:44:20 UTC] PHP Parse error:  syntax error, unexpected 'mysql_select_db' (T_STRING) in /home/fa16_547_330_02/public_html/group6/output/genexp.php on line 13
+[20-Dec-2016 21:51:11 UTC] PHP Parse error:  syntax error, unexpected 'mysql_select_db' (T_STRING) in /home/fa16_547_330_02/public_html/group6/output/outTranConf.php on line 14
+[20-Dec-2016 22:01:04 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/fa16_547_330_02/public_html/group6/output/merchConf.php on line 56
+[21-Dec-2016 02:14:10 UTC] PHP Parse error:  syntax error, unexpected 'mysql_select_db' (T_STRING) in /home/fa16_547_330_02/public_html/group6/output/outTranConf.php on line 14
+[21-Dec-2016 02:14:44 UTC] PHP Parse error:  syntax error, unexpected 'mysql_select_db' (T_STRING) in /home/fa16_547_330_02/public_html/group6/output/outTranConf.php on line 14
+[21-Dec-2016 02:16:40 UTC] PHP Parse error:  syntax error, unexpected 'mysql_select_db' (T_STRING) in /home/fa16_547_330_02/public_html/group6/output/outTranConf.php on line 14
+[21-Dec-2016 02:48:47 UTC] PHP Parse error:  syntax error, unexpected 'mysql_select_db' (T_STRING) in /home/fa16_547_330_02/public_html/group6/output/outTranConf.php on line 14
+[21-Dec-2016 03:17:43 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/fa16_547_330_02/public_html/group6/output/outTranConf.php on line 22
+[21-Dec-2016 03:19:11 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/fa16_547_330_02/public_html/group6/output/outTranConf.php on line 22

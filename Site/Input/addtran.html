@@ -1,0 +1,126 @@
+tran.html
+Details
+Activity
+YESTERDAY
+S
+Sara -sed96 uploaded an item
+Sun 12:31 PM
+HTML
+tran.html
+No recorded activity before December 18, 2016
+All selections cleared 
+New Team Drive
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+   
+
+    <title>Database 330</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+
+     <!--javascript-->
+        <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>    
+        <script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+        
+         
+        <!-- BOOTSTRAP -->           
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+        
+        <!--CSS-->
+        <link rel="stylesheet" href="index.css">
+  </head>
+  
+<body>
+      <nav id="navbar" class="navbar navbar-static-top navbar-dark bg-inverse">
+      <a class="navbar-brand" href="#">Group 6</a>
+      <ul class="nav navbar-nav">
+        <li class="nav-item active">
+          <a class="nav-link" href="../home.html">Home <span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Members</a>
+        </li>
+      </ul>
+    </nav>
+
+    <!-- Main jumbotron for a primary marketing message or call to action -->
+    <div class="jumbotron">
+      <div class="container">
+        <h1 class="display-3">Add Transaction</h1>
+      </div>
+    </div>
+
+    <div class="container">
+	
+	<div class="form-group row">
+  <label for="example-text-input" class="col-xs-2 col-form-label">Entry Id</label>
+  <div class="col-xs-10">
+    <input class="form-control" type="text" value="EntryID" id="entryID">
+  </div>
+</div>
+<div class="form-group row">
+  <label for="example-text-input" class="col-xs-2 col-form-label">Number of Items</label>
+  <div class="col-xs-10">
+    <input class="form-control" type="int" value="Number of items" id="item">
+  </div>
+</div>
+<div class="form-group row">
+  <label for="example-text-input" class="col-xs-2 col-form-label">Amount</label>
+  <div class="col-xs-10">
+    <input class="form-control" type="float" value="Amount" id="Amount">
+  </div>
+</div>
+<div class="form-group row">
+  <label for="example-text-input" class="col-xs-2 col-form-label">ReceiptID</label>
+  <div class="col-xs-10">
+    <input class="form-control" type="text" value="ReceiptID" id="id">
+  </div>
+</div>
+  <div class="form-group">
+    <label for="merchselect">Category</label>
+	<button type="button" class="btn btn-outline-success"><a href="cat.html">Add new category first</a></button>
+    <select class="form-control" id="catselect">
+      <option id="c1"></option>
+      <option id="c2"></option>
+      <option id="c3"></option>
+      <option id="c4"></option>
+      <option id="c5"></option>
+    </select>
+  </div>
+	  <div class="form-group">
+
+    <label for="merchselect">Merchant</label>
+	  	
+
+    <select class="form-control" id="merchselect">
+      <option id="m1"></option>
+      <option id="m2"></option>
+      <option id="m3"></option>
+      <option id="m4"></option>
+      <option id="m5"></option>
+    </select>
+  </div>
+	<div class="form-group row">
+  <label for="example-text-input" class="col-xs-2 col-form-label">Total</label>
+  <div class="col-xs-10">
+    <input class="form-control" type="text" value="$0.00" id="total">
+  </div>
+</div>
+<div class="form-group row">
+  <label for="example-date-input" class="col-xs-2 col-form-label">Date</label>
+  <div class="col-xs-10">
+    <input class="form-control" type="date" value="2011-08-19" id="date">
+  </div>
+</div>
+
+	
+	<button type="button" class="btn btn-outline-success"><a href="../home.html">Submit and go Back to Home </a></button>
+
+	</div>
+  </body>
